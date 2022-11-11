@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\JashQ4\JashQ4\bin\Debug\net6.0-windows\JashQ4.exe
+C:\Users\Admin\source\repos\JashQ4\JashQ4\bin\Debug\net6.0-windows\JashQ4.deps.json
+C:\Users\Admin\source\repos\JashQ4\JashQ4\bin\Debug\net6.0-windows\JashQ4.runtimeconfig.json
+C:\Users\Admin\source\repos\JashQ4\JashQ4\bin\Debug\net6.0-windows\JashQ4.dll
+C:\Users\Admin\source\repos\JashQ4\JashQ4\bin\Debug\net6.0-windows\JashQ4.pdb
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.Form1.resources
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.AssemblyInfo.cs
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.dll
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\refint\JashQ4.dll
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.pdb
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\JashQ4.genruntimeconfig.cache
+C:\Users\Admin\source\repos\JashQ4\JashQ4\obj\Debug\net6.0-windows\ref\JashQ4.dll
